@@ -1,1 +1,1 @@
-Implementation of Quick sort using MPI
+Implement Parallelization of Database Query optimization
